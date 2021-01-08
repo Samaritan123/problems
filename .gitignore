@@ -1,0 +1,4 @@
+/src/leetcode/editor/cn/doc/
+/src/leetcode/editor/cn/**/*.json
+/src/leetcode/editor/cn/**/*.md
+/problems.iml
