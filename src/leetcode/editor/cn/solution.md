@@ -64,7 +64,7 @@ n*m的矩阵，每个位置从下到上放着一定数量的正方体，问下�
 
 #### 题意
 
-![image-20201220105529327](C:\Users\Administrator\Desktop\note\solution.assets\image-20201220105529327.png)
+![image-20201220105529327](solution.assets\image-20201220105529327.png)
 
 #### Tags
 
@@ -90,7 +90,7 @@ remove稍微复杂一些，首先需要找到remove的元素对应在list中的�
 
 #### 题意
 
-![image-20201220104213241](C:\Users\Administrator\Desktop\note\solution.assets\image-20201220104213241.png)
+![image-20201220104213241](solution.assets\image-20201220104213241.png)
 
 要求所有操作时间复杂度O(1)
 
